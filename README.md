@@ -27,4 +27,4 @@ A página criada é uma introdução à **Trilha de CSS** da DIO, com os seguint
 
 1. Clone o repositório:
    ```bash
-   git clone (https://github.com/Daniel-WorkTi/Css-Screen-Dio)
+   git clone https://github.com/Daniel-WorkTi/Css-Screen-Dio
